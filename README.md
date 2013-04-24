@@ -42,6 +42,9 @@ If you have the same feelings like me, here it is!
    * Modify `Contents/MacOS/main.sh` accordingly so that it invokes your executables. 
    You may want to put other resources in the same folder to make it more like a package. 
 
+Before any modification, you can try `open my.app` from CLI to test whether it works. 
+It should open [this project repo](https://github.com/hupili/min-mac-app/) with your default browser.
+
 ## Case Study
 
 JabRef is my current favourite reference manager. 

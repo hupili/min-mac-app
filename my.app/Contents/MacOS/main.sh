@@ -7,4 +7,4 @@ _dir=`dirname $0`
 _fn=`basename $0`
 cd $_dir
 
-open 'https://hupili.github.com/min-mac-app/'
+open 'https://github.com/hupili/min-mac-app/'

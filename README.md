@@ -1,7 +1,6 @@
 # Minimalist's MAC App Creation
 
 This is for fresh beginners of MAC to quickly package an application in the `.app` format.
-(Read [more](https://github.com/hupili/min-mac-app/blob/master/more.md) about the motivation and reference)
 
 ## Usage
 
@@ -11,7 +10,6 @@ This is for fresh beginners of MAC to quickly package an application in the `.ap
    * Put `my.app` dir under your `/Applications/` dir. 
    Rename as you wish. 
    * Modify `Contents/MacOS/main.sh` accordingly so that it invokes your executables. 
-   You may want to put other resources in the same folder to make it more like a package. 
 
 Before any modification, you can try `open my.app` from CLI to test whether it works. 
 It should open [this project repo](https://github.com/hupili/min-mac-app/) with your default browser.
@@ -63,5 +61,11 @@ OK, it's running now:
 
 ![](https://raw.github.com/hupili/min-mac-app/master/screenshots/jabref-launch.png)
 
+## Further 
 
-
+   * Read 
+   [more](https://github.com/hupili/min-mac-app/blob/master/more.md)
+   about the motivation and reference.
+   * Go to the 
+   [blog post](http://hupili.github.io/p--20130424-min-mac-app/)
+   for a discussion. 

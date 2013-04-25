@@ -50,3 +50,18 @@ cd $_dir
 
 open JabRef-2.9.2.jar
 ```
+
+Your minimal layout of the app looks like this:
+
+![](https://raw.github.com/hupili/min-mac-app/master/screenshots/minimal-layout-app.png)
+
+You can now launch it from spotlight: 
+
+![](https://raw.github.com/hupili/min-mac-app/master/screenshots/spotlight.png)
+
+OK, it's running now:
+
+![](https://raw.github.com/hupili/min-mac-app/master/screenshots/jabref-launch.png)
+
+
+

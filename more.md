@@ -55,4 +55,11 @@ If you have the same feelings like me, here it is!
    looks sophisticated but it's only for Python. 
    Later I may use it to package larger projects. 
    * [platypus](http://sveinbjorn.org/platypus) creates MAC apps from scripts. 
+   * Actually, my first trial is not the first point...
+   I really tried to go into other app's dir can modify a minimal layout. 
+   However, even if after modifying `CFBundleExecutable` of `Info.plist`, the script does not execute. 
+   There are too many entries in a normal `Info.plist`...
+   I don't have time to learn it and turned to the Internet. 
+   Hope someone who understands the detailed structure can make the "minimal" 
+   `Info.plist` in this repo the real minimal. 
    

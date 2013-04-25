@@ -1,4 +1,7 @@
 #!/usr/bin/python
+#
+# Code from:
+#    * http://stackoverflow.com/questions/7404792/how-to-create-mac-application-bundle-for-python-script-via-python
 
 import sys
 assert len(sys.argv) > 1

@@ -65,8 +65,8 @@ OK, it's running now:
 
 You can add a custom icon to the app
 
-    * Put the icon under `Contents/Resources`
-    * In your `info.plist` change/add
+* Put the icon under `Contents/Resources`
+* In your `info.plist` change/add
 ```
 <key>CFBundleIconFile</key>
 <string>iconfile</string>

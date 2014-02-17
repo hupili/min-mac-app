@@ -9,7 +9,7 @@
     <key>CFBundleGetInfoString</key>
     <string>Test 1.0.0</string>
     <key>CFBundleIconFile</key>
-    <string>app.icns</string>
+    <string>mac.icns</string>
     <key>CFBundleIdentifier</key>
     <string>org.test.test</string>
     <key>CFBundleInfoDictionaryVersion</key>

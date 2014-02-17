@@ -61,18 +61,23 @@ OK, it's running now:
 
 ![](https://raw.github.com/hupili/min-mac-app/master/screenshots/jabref-launch.png)
 
-## Icon
+## Extensions
+
+### Icon
 
 You can add a custom icon to the app
 
-* Put the icon under `Contents/Resources`
-* In your `info.plist` change/add
+   * Put the icon under `Contents/Resources`
+   * In your `info.plist` change/add
+
 ```
 <key>CFBundleIconFile</key>
 <string>iconfile</string>
 ```
 
-
+The [diff](https://github.com/hupili/min-mac-app/commit/9545018fd1717021141441f93472af1fd89a3177)
+shows you more intuitively how 
+[an icon](http://findicons.com/icon/58561/mac?id=58719) is added.
 
 ## Further 
 

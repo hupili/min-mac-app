@@ -85,5 +85,5 @@ shows you more intuitively how
    [more](https://github.com/hupili/min-mac-app/blob/master/more.md)
    about the motivation and reference.
    * Go to the 
-   [blog post](http://hupili.github.io/p--20130424-min-mac-app/)
+   [blog post](http://blog.hupili.net/p--20130424-min-mac-app/)
    for a discussion. 

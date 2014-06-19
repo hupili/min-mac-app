@@ -87,3 +87,7 @@ shows you more intuitively how
    * Go to the 
    [blog post](http://blog.hupili.net/p--20130424-min-mac-app/)
    for a discussion. 
+
+## License
+
+MIT

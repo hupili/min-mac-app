@@ -88,6 +88,10 @@ shows you more intuitively how
    [blog post](http://blog.hupili.net/p--20130424-min-mac-app/)
    for a discussion. 
 
+## List of minimal Apps created with this repo
+
+* https://github.com/hupili/mma-hkbu-vpn
+
 ## License
 
 MIT
